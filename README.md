@@ -25,17 +25,17 @@ The model aims to:
 
 - Respect maximum available capacity per source
 Constraints
- - Minimum wind contribution:
+Minimum wind contribution:
 
 - renewable1: ≥ 40%
 
 - renewable2: ≥ 60%
 
-- Maximum gas share:
+Maximum gas share:
 
    ≤ 5% for both profiles
 
- System-wide limits:
+System-wide limits:
 
 - Coal ≤ 30,000 MWh
 
